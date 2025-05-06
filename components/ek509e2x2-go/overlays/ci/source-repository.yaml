@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ek509e2x2-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ek509e2x2-go
